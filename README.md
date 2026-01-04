@@ -20,7 +20,7 @@ I am a 3rd-year **Computer Engineering Student** at **Yıldız Technical Univers
 
 | Languages | Tools & Concepts |
 | :--- | :--- |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-FF7800?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge) |
+| ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-555555?style=for-the-badge&logo=intel&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-FF7800?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge) |
 
 ---
 
@@ -39,18 +39,16 @@ I am a 3rd-year **Computer Engineering Student** at **Yıldız Technical Univers
 
 <div align="center">
   <a href="https://github.com/1Gursel8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Gursel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=1Gursel8&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Gürsel's GitHub Stats" />
   </a>
-  
+  <br>
   <a href="https://github.com/1Gursel8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Gursel8&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Gursel8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Gursel8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <a href="https://github.com/1Gursel8">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Gursel8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
