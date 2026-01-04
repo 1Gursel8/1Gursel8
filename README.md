@@ -12,7 +12,7 @@ I am a 3rd-year **Computer Engineering Student** at **Yıldız Technical Univers
 
 * 🔭 I’m currently working on **Advanced Java OOP Projects**.
 * 🌱 I’m currently learning **Spring Boot & Backend Architecture**.
-* ⚡ Fun fact: I love building **Game AI** and analyzing **Numerical Methods**.
+* ⚡ Fun fact: I'm probably listening to **video game OST** like **Persona 5, Coffee Talk, Celeste** while debugging code. 
 
 ---
 
